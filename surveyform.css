@@ -1,0 +1,23 @@
+.form-group {
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 1.25rem;
+  margin-left: auto;
+  padding: 0.25rem;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+div {
+  display: block;
+}
+
+body {
+  font-family: sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.4;
+  color: black;
+}
